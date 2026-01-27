@@ -28,9 +28,9 @@ Building an offline-first social discovery platform designed as a **social catal
 
 | Project | Objective | Tech Stack |
 | :--- | :--- | :--- |
-| **RiskFecta** | Democratizing institutional-grade risk metrics (Efficient Frontier, Sharpe Ratio) for retail investors. | Python, PyTorch, Bloomberg API, Tableau |
-| **PlainCents** | Automated expense categorization and investment tracking dashboard using K-Means clustering. | Power BI, SQLite, Plotly, Scikit-learn |
-| **VectorMate** | Neural network chess engine (1000+ ELO) using CNNs and Minimax search. | PyTorch, Flask, Vercel, Render |
+| **PlainCents** | Automated expense categorization and investment tracking dashboard using K-Means clustering. | Python, scikit-learn, SQLite, Pandas, NumPy, Plotly, yfinance, PowerBI |
+| **RiskFecta** | Democratizing institutional-grade risk metrics (Efficient Frontier, Sharpe Ratio) for retail investors. | Python, PyTorch, scikit-learn, PostgreSQL, Matplotlib, Plotly, Bloomberg API, Tableau, Streamlit Cloud |
+| **VectorMate** | Neural network chess engine (1000+ ELO) using CNNs and Minimax search. | Python, PyTorch, Flask, Hugging Face, Render, Vercel |
 
 ---
 
