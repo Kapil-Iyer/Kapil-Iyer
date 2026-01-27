@@ -21,6 +21,17 @@ Building an offline-first social discovery platform designed as a **social catal
 
 * **The Goal:** Minimize time in-app; maximize real-world interaction.
 * **The Engineering:** Prioritizing validation over polish and designing for user trust rather than engagement metrics.
+
+---
+
+## 🛠 Featured Projects
+
+| Project | Objective | Tech Stack |
+| :--- | :--- | :--- |
+| **RiskFecta** | Democratizing institutional-grade risk metrics (Efficient Frontier, Sharpe Ratio) for retail investors. | Python, PyTorch, Bloomberg API, Tableau |
+| **PlainCents** | Automated expense categorization and investment tracking dashboard using K-Means clustering. | Power BI, SQLite, Plotly, Scikit-learn |
+| **VectorMate** | Neural network chess engine (1000+ ELO) using CNNs and Minimax search. | PyTorch, Flask, Vercel, Render |
+
 ---
 
 ## 💻 Tech Stack
