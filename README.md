@@ -46,9 +46,6 @@ My long-term goal is to build **mathematically rigorous, accessible systems** th
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=kapil-iyer&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
@@ -57,8 +54,4 @@ My long-term goal is to build **mathematically rigorous, accessible systems** th
 - **LinkedIn:** https://www.linkedin.com/in/kapiliyer29  
 - **Email:** k22iyer@uwaterloo.ca  
 - **Portfolio:** https://kapil-iyer-portfolio.vercel.app
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kapil-Iyer&theme=dark&hide_border=false&show_icons=true)
 ```
