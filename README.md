@@ -10,23 +10,17 @@ I build machine learning systems for quantitative finance, with an emphasis on *
 
 ## 🔬 Current Work
 
-**Quantitative Research — Wat Street (University of Waterloo)**  
+**ML Engineer — Wat Street (University of Waterloo)**  
 Modeling volatility contagion across S&P 500 assets using Temporal Graph Neural Networks, with performance benchmarked against econometric baselines such as GARCH and HAR-RV to evaluate statistical and predictive validity.
 
 **AI Engineering — Dazia Consulting Inc.**  
-Designing and implementing a full-stack AI tutoring system for financial certification education.
-
-I built production-oriented retrieval-augmented generation (RAG) pipelines processing 1,500+ pages of CSC and IFIC certification content, while also developing the backend services required to support real-world usage. This included building Express.js REST APIs for tutoring and content-generation workflows, configuring CORS policies, and implementing rate-limiting middleware to enforce freemium usage constraints.
-
-The system was designed with deployment and cost-awareness in mind. I optimized retrieval and prompting strategies to reduce token usage by approximately 30% while maintaining response quality, containerized backend services with Docker, and deployed authenticated, usage-tracked endpoints to support scalable inference.
+Designed and implemented a full-stack AI tutoring system for financial certification education, building production RAG pipelines that processed 1,500+ pages of content and reduced token usage by **~30%** via optimized retrieval strategies.
 
 **Co-Founder — Wanderers**  
 Building an offline-first social discovery platform designed as a **social catalyst rather than a destination**.
 
-Unlike traditional social or dating applications that optimize for feeds, ranking algorithms, and prolonged engagement, Wanderers is intentionally designed to minimize time spent in-app and maximize the likelihood of real-world interaction. The platform emphasizes small, interest-driven gatherings and fast transitions from discovery to offline connection, with success measured by meaningful meetups rather than engagement metrics.
-
-Working on Wanderers has pushed me to think beyond model performance and feature completeness and instead reason about **user incentives, trust, and behavioral outcomes**. It has shaped how I approach system design: prioritize validation over polish, reduce unnecessary complexity, and build technology that quietly enables better human outcomes rather than competing for attention.
-
+* **The Goal:** Minimize time in-app; maximize real-world interaction.
+* **The Engineering:** Prioritizing validation over polish and designing for user trust rather than engagement metrics.
 ---
 
 ## 💻 Tech Stack
