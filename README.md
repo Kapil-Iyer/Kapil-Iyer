@@ -1,4 +1,6 @@
-# Hi, I'm Kapil Iyer
+# Hi, I'm Kapil Iyer 👋
+
+### 🚀 About Me
 
 Applied Mathematics student at the University of Waterloo specializing in **Scientific Machine Learning and Statistics**, with a minor in Computing.
 
