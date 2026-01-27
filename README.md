@@ -38,11 +38,6 @@ Building an offline-first social discovery platform designed as a **social catal
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
----
-
 ## 📫 Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/kapiliyer29  
