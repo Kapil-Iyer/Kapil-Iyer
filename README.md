@@ -13,8 +13,9 @@ I build machine learning systems for quantitative finance, with an emphasis on *
 **ML Engineer — Wat Street (University of Waterloo)**  
 Modeling volatility contagion across S&P 500 assets using Temporal Graph Neural Networks, with performance benchmarked against econometric baselines such as GARCH and HAR-RV to evaluate statistical and predictive validity.
 
-**AI Engineering — Dazia Consulting Inc.**  
+**AI Engineer — Dazia Consulting Inc.**  
 Designed and implemented a full-stack AI tutoring system for financial certification education, building production RAG pipelines that processed 1,500+ pages of content and reduced token usage by **~30%** via optimized retrieval strategies.
+Built Express.js REST services with CORS and rate-limiting to enforce freemium usage constraints and support production deployment.
 
 **Co-Founder — Wanderers**  
 Building an offline-first social discovery platform designed as a **social catalyst rather than a destination**.
@@ -29,14 +30,14 @@ Building an offline-first social discovery platform designed as a **social catal
 | Project | Objective | Tech Stack |
 | :--- | :--- | :--- |
 | **PlainCents https://github.com/Kapil-Iyer/PlainCents** | Automated expense categorization and investment tracking dashboard using K-Means clustering. | Python, scikit-learn, SQLite, Pandas, NumPy, Plotly, yfinance, PowerBI |
-| **RiskFecta https://github.com/Kapil-Iyer/RiskFecta** | Democratizing institutional-grade risk metrics (Efficient Frontier, Sharpe Ratio) for retail investors. | Python, PyTorch, scikit-learn, PostgreSQL, Matplotlib, Plotly, Bloomberg API, Tableau, Streamlit Cloud |
+| **RiskFecta https://github.com/Kapil-Iyer/RiskFecta** | Implementing portfolio risk analytics (Efficient Frontier, Sharpe Ratio) for retail investors. | Python, PyTorch, scikit-learn, PostgreSQL, Matplotlib, Plotly, Bloomberg API, Tableau, Streamlit Cloud |
 | **VectorMate https://github.com/Kapil-Iyer/VectorMate** | Neural network chess engine (1000+ ELO) using CNNs and Minimax search. | Python, PyTorch, Flask, Hugging Face, Render, Vercel |
 
 ---
 
 ## 💻 Tech Stack
 **Languages:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 **Machine Learning:**
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
