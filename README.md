@@ -29,19 +29,6 @@ Working on Wanderers has pushed me to think beyond model performance and feature
 
 ---
 
-## 🎯 Engineering Philosophy
-
-Across both technical and product-driven projects, I focus on:
-
-- Rigorous benchmarking against strong baselines, not just training accuracy  
-- Evaluation under real-world constraints such as cost, latency, and usability  
-- Behavioral validation over feature accumulation  
-- Building systems that deliver measurable value beyond surface-level engagement  
-
-My long-term goal is to build **mathematically rigorous, accessible systems** that bridge institutional-grade analytics and real-world users, particularly in finance.
-
----
-
 ## 💻 Tech Stack
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SQL](https://img.shields.io/badge/SQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
