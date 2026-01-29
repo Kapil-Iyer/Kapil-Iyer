@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 
-bachelors of Math Co-op student at the University of Waterloo specializing in **Applied Mathematics - Scientific Machine Learning and Statistics**, with a minor in Computing.
+Candidate for Bachelors of Math Co-op student at the University of Waterloo specializing in **Applied Mathematics - Scientific Machine Learning and Statistics**, with a minor in Computing.
 
 I build machine learning systems for quantitative finance, with an emphasis on **rigorous evaluation, interpretability, and production constraints**. My work focuses not just on whether models perform well in isolation, but whether they are reliable, understandable, and genuinely useful in real-world settings.
 
