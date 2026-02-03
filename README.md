@@ -14,7 +14,7 @@ I build machine learning systems for financial services, with an emphasis on **r
 Modeling volatility contagion across S&P 500 assets using Temporal Graph Neural Networks, with performance benchmarked against econometric baselines such as GARCH and HAR-RV to evaluate statistical and predictive validity.
 
 **AI Engineer — Dazia Consulting Inc.**  
-Designed and implemented a full-stack AI tutoring system for financial certification education, building production RAG pipelines that processed 1,500+ pages of content and reduced token usage by **~30%** via optimized retrieval strategies.
+Designed and implemented a full-stack AI tutoring system for financial certification education, expanding boilerplate to production RAG pipelines using ChromaDB and Docker that processed 1,500+ pages of content and reduced token usage by **~30%** via optimized retrieval strategies.
 Built Express.js REST services with CORS and rate-limiting to enforce freemium usage constraints and support production deployment.
 
 **Co-Founder — Wanderers**  
