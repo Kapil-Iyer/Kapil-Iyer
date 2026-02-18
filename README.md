@@ -31,8 +31,8 @@ Building an offline-first social discovery platform designed as a **social catal
 
 | Project | Objective | Tech Stack |
 | :--- | :--- | :--- |
-| **PlainCents https://github.com/Kapil-Iyer/PlainCents** | Automated expense categorization and investment tracking dashboard using K-Means clustering. | Python, scikit-learn, SQLite, Pandas, NumPy, Plotly, yfinance, PowerBI |
-| **RiskFecta https://github.com/Kapil-Iyer/RiskFecta** | Implementing portfolio risk analytics (Efficient Frontier, Sharpe Ratio) for retail investors. | Python, PyTorch, scikit-learn, PostgreSQL, Matplotlib, Plotly, Bloomberg Terminal API, Tableau, Streamlit Cloud |
+| **PlainCents https://github.com/Kapil-Iyer/PlainCents** | Automated expense categorization and investment tracking dashboard using K-Means clustering. | Python, scikit-learn, SQLite, Pandas, NumPy, Matplotlib, yfinance, PowerBI |
+| **RiskFecta https://github.com/Kapil-Iyer/RiskFecta** | Implementing portfolio risk analytics (Efficient Frontier, Sharpe Ratio) for retail investors. | Python, PyTorch, scikit-learn, SciPy, PostgreSQL, Plotly, Bloomberg Terminal, Tableau, Streamlit Cloud |
 | **VectorMate https://github.com/Kapil-Iyer/VectorMate** | Neural network chess engine (1000+ ELO) using CNNs and Minimax search. | Python, PyTorch, Flask, Hugging Face, Render, Vercel |
 
 ---
