@@ -11,8 +11,8 @@ I build machine learning systems for financial services, with an emphasis on **r
 ## 🔬 Current Work
 
 **ML Engineer — Wat Street (University of Waterloo)**  
-Modeling volatility contagion across S&P 500 assets using Temporal Graph Neural Networks, with performance benchmarked against econometric baselines such as GARCH and HAR-RV to evaluate statistical and predictive validity.
-
+Implementing Temporal Graph Attention Network layer to model volatility contagion across S&P 500 assets, learning dynamic inter-stock dependencies from Graphical Lasso derived adjacency structures/
+Developing rolling-window training pipeline with MSE loss and gradient verification, targeting at least 10% RMSE improvement over GARCH and HAR-RV baselines across 1, 3, and 5-day prediction horizons
 **AI Engineer — Dazia Consulting Inc.**  
 Designed and implemented a full-stack AI tutoring system powered by Gemini 2.5 Flash for financial certification education, expanding boilerplate to production RAG pipelines using ChromaDB and Docker that processed 1,500+ pages of content and reduced token usage by **~30%** via optimized retrieval strategies.
 Built Express.js REST services with CORS and rate-limiting to enforce freemium usage constraints and support production deployment.
