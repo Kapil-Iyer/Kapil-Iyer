@@ -10,10 +10,10 @@ I build machine learning systems for financial services, with an emphasis on **r
 
 ## 🔬 Current Work
 
-**AI Product Engineer Intern — Ibreez Academy Inc.**
+**AI Product Engineer Intern — Ibreez Academy Inc.**  
 Developing SIRS, a solo-built full-stack student management system (Python, Streamlit, Supabase) replacing a paper-based workflow for 3,000+ students across 27 course types. Also developing RAG-based AI tutoring pipelines (Gemini API, ChromaDB) for RIBO and LLQP exam prep, targeting 95%+ reduction in student lookup time.
 
-**AI/ML Engineer Intern — Paideia Mundi NeuroSystems Institute** *(NDA-Protected)*
+**AI/ML Engineer Intern — Paideia Mundi NeuroSystems Institute** *(NDA-Protected)*  
 Contributed to a confidential multimodal ML research prototype supporting children's neurodevelopmental health. Engineered EEG connectivity features and a custom scikit-learn compatible feature selector with non-parametric ranking and multi-target selection logic, validated through a full pytest test suite.
 
 **ML Engineer — Wat Street (University of Waterloo)**  
