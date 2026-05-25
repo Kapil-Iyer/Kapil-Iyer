@@ -64,5 +64,5 @@ Building an offline-first social discovery platform designed as a **social catal
 - **LinkedIn:** https://www.linkedin.com/in/kapiliyer29  
 - **Email:** k22iyer@uwaterloo.ca  
 - **Portfolio:** https://kapil-iyer-portfolio.vercel.app
-- **Resume:** https://drive.google.com/file/d/1Yqbv1bCdIxKbjeTOp8UStGWOPWIYTBGu/view?usp=sharing
+- **Resume:** https://drive.google.com/file/d/1cLD0WRbQUoevw66NxalYBxzlKmTbNxqT/view?usp=sharing
 ```
