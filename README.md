@@ -10,27 +10,25 @@ I build machine learning systems for financial services, with an emphasis on **r
 
 ## 🔬 Current Work
 
-**AI Product Engineer Intern — Ibreez Academy Inc.**  
-Developing SIRS, a solo-built full-stack student management system (Python, Streamlit, Supabase) replacing a paper-based workflow for 3,000+ students across 27 course types. Also developing RAG-based AI tutoring pipelines (Gemini API, ChromaDB) for RIBO and LLQP exam prep, targeting 95%+ reduction in student lookup time.
+**AI Product Engineer Intern — Ibreez Academy Inc. [Demo](https://www.youtube.com/watch?v=jFvxV0q2Unw)**  
+Built SIRS, a Python + Supabase student-operations platform for 3,000+ students across 27 course types.
+Engineered 7+ operational workflows across 3 synchronized Streamlit apps spanning registration, payments, kiosk/live attendance, exam tracking, ReportLab PDFs, and real-time analytics for lead generation and revenue.
+
+**ML Engineer — Wat Street (University of Waterloo) [Demo](https://www.youtube.com/watch?v=11YzLK6UFWM&feature=youtu.be)**  
+Collaborated on a GAT + LSTM system forecasting next-session volatility for 155 of 500 S&P 500 equities.
+Implemented the GATLayer (10 features → 32D embeddings, message passing, graph-to-LSTM interface) and built the interactive product tour for exploring forecasts, network influence, risk rankings, and shock propagation.
 
 **AI/ML Engineer Intern — Paideia Mundi NeuroSystems Institute** *(NDA-Protected)*  
 Contributed to a confidential multimodal ML research prototype supporting children's neurodevelopmental health. Engineered EEG connectivity features and a custom scikit-learn compatible feature selector with non-parametric ranking and multi-target selection logic, validated through a full pytest test suite.
 
-**ML Engineer — Wat Street (University of Waterloo)**  
-Implementing Temporal Graph Attention Network layer to model volatility contagion across S&P 500 assets, learning dynamic inter-stock dependencies from Graphical Lasso derived adjacency structures.
-Developing rolling-window training pipeline with MSE loss and gradient verification, targeting at least 10% RMSE improvement over GARCH and HAR-RV baselines across 1, 3, and 5-day prediction horizons
+**AI Engineer — Dazia Consulting Inc. [Demo](https://www.youtube.com/watch?v=BFFwxMPeKis&feature=youtu.be)**  
+Expanded a RAG pipeline by adding semantic chunking, indexing 1500+ pages of CSC/IFIC content across 1,600 embeddings per dataset in ChromaDB, and deploying the vector store with Docker for persistent storage.
+Built 8 Express.js REST APIs with CORS and rate limiting, scaling backend across 4 AI tutoring services.
+Implemented a 20-interaction per-service freemium cap aligned with cost modeling and reduced Gemini 2.5 Flash API inference costs by 30% through retrieval optimization, integrating the backend with a React frontend.
 
-**AI Engineer — Dazia Consulting Inc.**  
-Designed and implemented a full-stack AI tutoring system powered by Gemini 2.5 Flash for financial certification education, expanding boilerplate to production RAG pipelines using ChromaDB and Docker that processed 1,500+ pages of content and reduced token usage by **~30%** via optimized retrieval strategies.
-Built Express.js REST services with CORS and rate-limiting to enforce freemium usage constraints and support production deployment.
-
-* **Features:** RAG context Question Generator, Gemini 2.5 flash AI Tutor Bot, Context and Topic Summarizer Cheat Sheet Generator, Flashcards, Daily limit set
-
-**Co-Founder — Wanderers**  
-Building an offline-first social discovery platform designed as a **social catalyst rather than a destination**.
-
-* **The Goal:** Minimize time in-app; maximize real-world interaction.
-* **The Engineering:** Prioritizing validation over polish and designing for user trust rather than engagement metrics.
+**Co-Founder — Wanderers** **[Website](https://www.wanderers.space/)**  
+Co-founded Wanderers, a live campus social platform enabling University of Waterloo students to form real-life connections through spontaneous activity bubbles, selected and pitched at Velocity Pitch Competition 2026.
+Engineered the backend integration layer wiring Next.js API routes to Supabase for live feed updates and a Gemini 2.5 Flash pipeline for converting natural language into structured bubble creation in under 2 seconds.
 
 ---
 
@@ -38,9 +36,9 @@ Building an offline-first social discovery platform designed as a **social catal
 
 | Project | Objective | Tech Stack |
 | :--- | :--- | :--- |
-| **PlainCents https://github.com/Kapil-Iyer/PlainCents** | Automated expense categorization and investment tracking dashboard using K-Means clustering. | Python, scikit-learn, SQLite, Pandas, NumPy, Matplotlib, yfinance, PowerBI |
-| **RiskFecta https://github.com/Kapil-Iyer/RiskFecta** | Implementing portfolio risk analytics (Efficient Frontier, Sharpe Ratio) for retail investors. | Python, PyTorch, scikit-learn, SciPy, PostgreSQL, Plotly, Bloomberg Terminal, Tableau, Streamlit Cloud |
-| **VectorMate https://github.com/Kapil-Iyer/VectorMate** | Neural network chess engine (1000+ ELO) using CNNs and Minimax search. | Python, PyTorch, Flask, Hugging Face, Render, Vercel |
+| **PlainCents [GitHub](https://github.com/Kapil-Iyer/PlainCents) [Demo](https://www.youtube.com/watch?v=PxNN2qKE-b4) [Website](https://plaincents.onrender.com/)** | Built a full-stack personal finance platform for multi-bank analytics, forecasting, portfolio tracking, and exports. | Python, TypeScript, React, FastAPI, scikit-learn, SQLite, Pandas, yfinance, Power BI, Render |
+| **RiskFecta [GitHub](https://github.com/Kapil-Iyer/RiskFecta) [Website](https://riskfecta.vercel.app/)** | Forecasting 21-trading-day returns across 50 equities using Bloomberg for OHLCV, SPX, VIX, and rates data. | Python, TypeScript, React, PyTorch, scikit-learn, SciPy, Supabase, FastAPI, Plotly, Bloomberg Terminal, Vercel |
+| **VectorMate [GitHub](https://github.com/Kapil-Iyer/VectorMate)** | Neural network chess engine (1000+ ELO) using CNNs and Minimax search. | Python, PyTorch, Flask, Hugging Face, Render, Vercel |
 
 ---
 
@@ -65,5 +63,5 @@ Building an offline-first social discovery platform designed as a **social catal
 - **LinkedIn:** https://www.linkedin.com/in/kapiliyer29  
 - **Email:** k22iyer@uwaterloo.ca  
 - **Portfolio:** https://kapil-iyer-portfolio.vercel.app
-- **Resume:** https://drive.google.com/file/d/1cLD0WRbQUoevw66NxalYBxzlKmTbNxqT/view?usp=sharing
+- **Resume:** https://drive.google.com/file/d/1Uu-O4c6otsU8rn-SuORZ4_Y9NK7Oif6_/view?usp=sharing
 ```
